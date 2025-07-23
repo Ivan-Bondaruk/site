@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome to my portfolio",
+  "about": "About Me",
+  "home": "Home",
+  "contact": "Contact",
+  "contact_me": "Contact Me",
+  "send_message": "Send Message",
+  "projects": "Projects",
+  "greeting": "Hello, I'm",
+  "view_projects": "View Projects",
+  "view_project": "View Project",
+  "mobile_skills": "Mobile",
+  "desktop_skills": "Desktop",
+  "backend_skills": "Backend",
+  "games_skills": "Games",
+  "education": "Education",
+  "workexp": "Work Experience",
+  "featured_projects": "Featured Projects",
+  "home_description": "I’m a full-stack developer who loves crafting clean, scalable web applications. My goal is to build solutions that offer both exceptional performance and a delightful user experience.",
+  "about_description": "Passionate developer with expertise in building scalable mobile and desktop applications and creating innovative solutions."
+}
